@@ -7,7 +7,7 @@
 
 > Setup
 
-- `root@user :` git clone https://github.com/Akumar7042/Assignment.git
+- `root@user :` git clone  https://github.com/Akumar7042/Assignment.git
 
 - `root@user :` cd assigment/
 
